@@ -3,3 +3,4 @@
 /src/.phpunit.result.cache
 /src/npm-debug.log
 /src/yarn-error.log
+/mysql
